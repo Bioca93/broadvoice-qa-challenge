@@ -76,6 +76,12 @@ npx playwright show-report
 > The complete Test Case documentation is available here:  
 > 👉 [Pratical Exercice - Test Cases.pdf](./docs/Pratical%20Exercice%20-%20Test%20Cases.pdf)
 
+## 📊 Test Execution Report (Screenshot)
+
+Below is a screenshot of the Playwright test report:
+
+![Report Summary](https://github.com/Bioca93/broadvoice-qa-challenge/blob/main/docs/ReportSummary.png)
+
 
 ## 📌 Assumptions Made During Development
 
