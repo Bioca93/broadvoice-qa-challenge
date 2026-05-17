@@ -1,0 +1,23 @@
+{
+  "name": "broadvoice-qa-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bioca93/broadvoice-qa-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bioca93/broadvoice-qa-challenge/issues"
+  },
+  "homepage": "https://github.com/Bioca93/broadvoice-qa-challenge#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.8.0"
+  }
+}
